@@ -1,6 +1,6 @@
 int <stdio.h>
 int main (viod)
 {
- printf("is this right?"); 
+ printf("i love m");
   return 0;
 }
